@@ -1,0 +1,29 @@
+[
+    {
+        "name": "imam",
+        "age": 23,
+        "nik": "019210291012",
+        "pilihan": [
+            "kucing",
+            "badak"
+        ]
+    },
+    {
+        "name": "reja",
+        "age": 22,
+        "nik": "01242291012",
+        "pilihan": [
+           "monyet",
+           "harimau"
+        ]
+    },
+    {
+        "name": "aji",
+        "age": 20,
+        "nik": "0109870291012",
+        "pilihan": [
+            "singa",
+            "anjing"
+        ]
+    }
+]
